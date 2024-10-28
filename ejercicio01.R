@@ -2,8 +2,9 @@
 
 solucion <- function() {
   # Asigna valores a 'a' y 'b' de manera que el valor asignado a 's' sea 100
-  a <- NULL # asigna valor aquí
-  b <- NULL # asigna valor aquí
+  a <- 50
+  b <- 50
   s <- a+b
   return(s)
 }
+
