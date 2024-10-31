@@ -1,6 +1,7 @@
-solucion- function (a,b ){
+solucion- function ( ){
+    a<-50
+    b<-50
     s<- a + b 
     return (s)
 }
-solucion (50, 50)
 
