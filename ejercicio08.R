@@ -10,4 +10,4 @@ solucion <- function() {
   t <- 2 * s + c - d
   return(c(s, t, x, y))
 }
-solucion()
+
