@@ -2,11 +2,11 @@
 
 solucion <- function() {
   # Escribe una expresión de manera que a 's' se le asigne el promedio de 'a', 'b', 'c', y 'd'
-  a <- 4
-  b <- 8
-  c <- 5
-  d <- 3
-  s <- a+b+c+d/4
+  a<-4
+  b<-8
+  c<-5
+  d<-3
+  s<-a+b+c+d/4
   return(s)
 }
 
