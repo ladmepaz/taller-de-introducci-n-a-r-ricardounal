@@ -6,7 +6,7 @@ solucion <- function() {
   d<-3
   x<-3 # Valor encontrado
   y<-NULL # No se necesita modificar
-  s<-a * x - b
+  s<-a*x-b
   t<-2*s+c-d
   return(c(s, t, x, y))
 }
