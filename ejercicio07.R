@@ -6,7 +6,7 @@ solucion <-function(){
   b<-8
   c<-5
   d<-3
-  s<-a+b+c+d/4
+  s<-(a+b+c+d)/4
   return(s)
 }
 
