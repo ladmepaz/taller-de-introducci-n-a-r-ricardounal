@@ -3,7 +3,7 @@
 solucion <- function(){
   # Asigna un valor a 'parte2' y a 'sep' (si es necesario) de manera que a 's' se le asigne la cadena 'hola-mundo' 
   parte1<-'hola'
-  parte2<-'-mundo' # ingresar valor aquí
+  parte2<-'mundo' # ingresar valor aquí
   s<-paste(parte1, parte2, sep = "-") # modificar si es necesario
   return(s)
 }
